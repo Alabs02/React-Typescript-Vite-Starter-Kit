@@ -8,7 +8,7 @@ import * as path from 'path';
 
 export default defineConfig({
   server: {
-    port: 3040
+    port: 3060
   },
 
   plugins: [
